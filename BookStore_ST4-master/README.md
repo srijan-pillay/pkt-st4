@@ -1,7 +1,9 @@
-HOME PAGE WITH NAV BAR HAVING THE ROUTING FUNCTIONALITY AND BOOKSPACE WHERE BOOKS ARE SHOWN AND BY CLIKING ON THE CARD THE USER REDIRECTS TO READ IT ONLINE
-![image](https://user-images.githubusercontent.com/78367762/194931505-8cda0536-8b49-4c60-95ca-d88ddf5d3490.png)
-THIS IS SIMPLE ABOUT PAGE
-![image](https://user-images.githubusercontent.com/78367762/194931241-f8e326d1-9991-4eb5-a311-99609db21f35.png)
-THIS IS SIMPLE CONTACT PAGE
-![image](https://user-images.githubusercontent.com/78367762/194931632-d3db6e59-ef7f-4233-940b-7791f3de6511.png)
+# Paryavaran ki Tasveer
+## Home
+<img width="874" alt="Screenshot 2022-10-17 143955" src="https://user-images.githubusercontent.com/110384598/196138276-f853c300-e926-4005-b538-7c1f7faa6571.png">
 
+## About Us
+<img width="861" alt="Screenshot 2022-10-17 144052" src="https://user-images.githubusercontent.com/110384598/196138360-ecccb1eb-3513-4358-8d63-3261234b3dd5.png">
+
+## Contact Us
+<img width="786" alt="Screenshot 2022-10-17 144117" src="https://user-images.githubusercontent.com/110384598/196138426-216ba2f4-510f-4535-9a14-07b390a2260a.png">
